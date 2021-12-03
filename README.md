@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div align=center>
+  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finho-woo%2F&count_bg=%23C4BA63&title_bg=%23010101&icon=&icon_color=%23F1EDED&title=Visitor&edge_flat=false"/></a>
+ </div>
 <!--
 **inho-woo/inho-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
