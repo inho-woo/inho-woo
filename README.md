@@ -6,7 +6,7 @@
 
 # InhoHwang
 
-## ⚒️  Tech Stack  ⚒️
+## ⚒️&nbsp;Tech Stack&nbsp;  ⚒️
 
 ### Techs that I've used ###
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-##  💻 Programming tool  💻 ##
+##  💻 &nbsp;Programming tool&nbsp;  💻 ##
 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp;&nbsp;
@@ -32,7 +32,7 @@
 <br>
 <br>
 
-## Studying...  I'm trying  🤣 ##
+## Studying...  I'm trying&nbsp;  🤣 ##
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp;&nbsp;
